@@ -1,0 +1,161 @@
+
+
+/*tout*/
+
+.all{
+	background-color: white;
+}
+
+.all-container{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+/*header*/
+
+header{
+	position:relative;
+}
+
+ul{
+	margin:0px;
+}
+
+.bandeauImage{
+	width:100%;
+}
+
+#navigation{
+	margin: none;
+	background: white;
+}
+
+.nav-link{
+	color: #003a56;
+	position:absolute;
+	display: inline-block;
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	text-decoration: none;
+}
+
+.post-link{
+	background: transparent;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	color: white;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+.titre{
+	opacity: 0.6;
+	color:white;
+	position:absolute;
+	top:5px;
+	left: 7%;
+	text-decoration: none;
+}
+
+/*corps*/
+
+.background{
+	/*background-image: url("img/grappe.bmp");*/
+	height:auto;
+	position:relative;
+}
+
+.backgroundImage{
+	width:100%;
+	position:relative;
+}
+
+/*{
+    max-width: 100%;
+    height: auto;
+    width: auto\9;  ie8 
+}*/
+
+.text, .text-centered{
+	font-size: 12px;
+	opacity: 0.6;
+	width: 50%;
+	color: white;
+	background-color: black;
+	position: absolute;
+	top:40px;
+}
+
+.text{
+	right:40px;
+	padding:20px;
+}
+
+.text-centered{
+	margin-right:3%;
+	right:3%;
+	padding:3%;
+	width:82%;
+}
+
+/*accueil*/
+
+.text-accueil{
+}
+
+/*actualités*/
+
+.text-actualites{
+	overflow: auto;
+}
+
+.link-actualites{
+	text-decoration: none;
+	color: white;
+}
+
+.img-article{
+	width:100px;
+}
+
+/* contact */
+
+.tableContact{
+	text-align: left;
+	vertical-align: text-top;
+}
+
+.text-contact{
+}
+
+/*equipes*/
+
+.text-equipe{
+}
+
+/*partenaires*/
+
+.text-partenaires{
+	overflow: auto;
+}
+
+/*lire*/
+
+.text-lire{
+}
+
+.article{
+	border-top: medium solid gray;
+	border-top-width: 1px;
+}
+
+/*allArticles*/
+.text-allArticles{
+	overflow: auto;
+	max-height: 850px;
+	position:relative;
+}
